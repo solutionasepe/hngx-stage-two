@@ -71,7 +71,7 @@ A Simple CRUD API to create a Person object with the attribute name.
    python manage.py runserver
    ```
 
-8. Access the API in POSTMAN at `http://127.0.0.1:8000/api`.
+8. Access the API in POSTMAN at `http://127.0.0.1:8000/api/`.
 
 ## Usage
 
